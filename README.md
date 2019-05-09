@@ -1,5 +1,4 @@
-dictate.js
-==========
+
 
 __dictate.js__ is a small Javascript library for browser-based real-time speech recognition.
 It uses [Recorderjs](https://github.com/mattdiamond/Recorderjs) for audio capture,
@@ -50,3 +49,5 @@ See also
 
 - [Dikteeri](https://bark.phon.ioc.ee/dikteeri/) is an Estonian dictation demo by the [Laboratory of Phonetics and Speech Technology](https://phon.ioc.ee/dokuwiki/doku.php?id=start.en) (in Estonian). Uses `dictate.js`.
 - [Kõnele](https://github.com/Kaljurand/K6nele) contains an Android front-end to the Kaldi GStreamer server
+
+kaldi dictate milao
